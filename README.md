@@ -1,4 +1,4 @@
-# Fluent::Plugin::GenHashValue
+# Fluent::Plugin::AddUuid
 
 fluentd filter plugin.
 add uuid to stream
